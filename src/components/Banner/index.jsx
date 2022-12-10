@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
-import categories, { getMovies } from "../api";
-import "./Banner.css";
+import categories, { getMovies } from "../../api";
+import "./style.css";
 
 function Banner() {
   const [movie, setMovie] = React.useState({});
