@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Você pode visualizar o projeto através [DESSE LINK](https://netflix-clone-b0789.web.app/).
+Você pode visualizar o projeto através [DESSE LINK](https://app-clone-netflix.netlify.app/).
 
 ---
 
