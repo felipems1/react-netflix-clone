@@ -1,7 +1,7 @@
-import movieTrailer from "movie-trailer";
 import { useEffect, useState } from "react";
-import ReactPlayer from "react-player";
 import { getMovies } from "../../api";
+import movieTrailer from "movie-trailer";
+import ReactPlayer from "react-player";
 import "./style.css";
 
 const imageHost = "https://image.tmdb.org/t/p/original/";

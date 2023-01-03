@@ -1,9 +1,9 @@
-import React, { useEffect } from "react";
+import { useEffect, useState } from "react";
 import categories, { getMovies } from "../../api";
 import "./style.css";
 
 function Banner() {
-  const [movie, setMovie] = React.useState({});
+  const [movie, setMovie] = useState({});
 
   const fetchRandomMovie = async () => {
     try {
